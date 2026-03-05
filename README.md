@@ -1,18 +1,17 @@
-👋 Olá! Eu sou João Paulo Ferreira Rodrigues
+👋 Bem vindo! Meu nome é João Paulo Ferreira Rodrigues
 
-🎓 Estudante de Engenharia de Software
 📚 Formado em Administração pela PUC Minas
+🎓 Estudante de Engenharia de Software também na PUC Minas
 
 👨‍💻 Sobre mim
 
-Meu nome é João Paulo Ferreira Rodrigues, tenho 22 anos e sou formado em Administração pela PUC Minas.
-Atualmente estou cursando Engenharia de Software, onde venho desenvolvendo minhas habilidades na área de tecnologia.
+Tenho 22 anos, sou formado em Administração pela PUC Minas e atualmente estou cursando Engenharia de Software.
 
-Estou no 1º período e estamos aprendendo Python como linguagem principal de programação. 
+Estou no 1º período da graduação e iniciando minha jornada na área de tecnologia, no momento estamos aprendendo Python como linguagem de programação.
 
-Estou em processo de aprendizado e buscando minha oportunidades na área de tecnologia, onde eu possa desenvolver minhas habilidades práticas, aprender com profissionais experientes e contribuir para projetos reais.
+Busco desenvolver minhas habilidades técnicas e adquirir experiência prática, unindo meus conhecimentos de negócios e gestão com tecnologia.
 
-🚀 Tecnologias que estou estudando
+🚀 Tecnologias em aprendizado
 
 🐍 Python
 
@@ -22,9 +21,9 @@ Estou em processo de aprendizado e buscando minha oportunidades na área de tecn
 
 🎯 Objetivo
 
-Busco desenvolver minha carreira na área de tecnologia, junto a minha experiência no meu outro curso e no meu trabalho atual
+Construir uma carreira na área de tecnologia e desenvolvimento de software, aplicando meus conhecimentos acadêmicos e profissionais enquanto continuo evoluindo como desenvolvedor.
 
-⭐ Em breve você encontrará aqui meus projetos desenvolvidos durante a faculdade e estudos pessoais.
+⭐ Em breve você encontrará aqui projetos desenvolvidos durante a faculdade e estudos pessoais.
 
 <!--
 **joaopauloferreirarodrigues/joaopauloferreirarodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
